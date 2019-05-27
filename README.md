@@ -10,4 +10,4 @@ Initiative for Better Tomorrow(IBT)
   Ficus religiosa
 3. Banyan Tree ([wiki](https://en.wikipedia.org/wiki/Banyan))
   Banyan
-4. 
+4. Indian Fig Tree ([wiki](https://en.m.wikipedia.org/wiki/Ficus_racemosa)) 
